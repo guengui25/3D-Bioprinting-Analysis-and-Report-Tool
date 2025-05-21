@@ -82,7 +82,7 @@ The 3D Bioprinting Analysis and Report Tool provides an integrated environment f
 
 1. Clone or download the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/guengui25/3D-Bioprinting-Analysis-and-Report-Tool
    ```
 
 2. Navigate to the project directory:
