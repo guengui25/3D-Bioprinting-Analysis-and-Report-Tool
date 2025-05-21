@@ -78,7 +78,7 @@ La **Herramienta de Análisis y Reporte de Bioimpresión 3D** proporciona un en
 ## Instalación
 1. Clona o descarga el repositorio:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/guengui25/3D-Bioprinting-Analysis-and-Report-Tool
    ```
 2. Navega al directorio del proyecto:
    ```bash
