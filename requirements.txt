@@ -1,0 +1,9 @@
+opencv-python>=4.11.0.86
+pytesseract>=0.3.13
+numpy>=2.2.5
+pandas>=2.2.3
+matplotlib>=3.10.3
+imageio>=2.37.0
+scikit-image>=0.25.2
+fpdf>=1.7.2
+reportlab>=4.4.0
